@@ -1,0 +1,59 @@
+
+------------>文件说明<------------
+
+1). MediaTek_ApSoC_SDK_4320_20150414.tar.bz2
+联发科官方提供的SDK，编译使用方法，请详细阅读 MTK_APSoC_SDK_User_Manual.pdf
+
+2). mtksdk-openwrt-3.10.14-20150311-d021c937.tar.bz2
+联发科官方提供的OpenWrt，编译使用方法，请详细阅读 MTK-OpenWrt-3.10.14-SDK-Release-Notes.docx
+
+3). openwrt-1505-5PortEPHY.tar.bz2
+无涯物联科技官方维护的OpenWrt，编译使用方法，请看配套的视频教程
+
+4). u-boot-mt7688-master.bz2
+无涯物联科技官方维护的U-Boot，编译使用方法，请看配套的视频教程
+
+5). PandoraBox-ralink-mt7628-mt7628an-evb-squashfs-sysupgrade-115200.bin
+PandoraBox MT7688路由器固件
+波特率：115200
+用户名：root
+密码：admin
+恢复模式下默认IP 192.168.1.1
+DCHP池:192.168.1.2-192.168.1.254
+
+特性:
+  a.增强版原厂驱动
+  b.完整的OpenWrt兼容
+  c.NAS应用加速
+  d.完整的WiFi功能
+ 	支持中继
+	支持WPS
+	支持WiFi监听模式
+	支持30+ STA客户端
+
+  e.完美支持原厂WiFi产测
+  f.支持智能IP带宽控制
+  g.支持系统奔溃信息收集
+  h.稳定的Linux 3.14 LTS内核
+	支持标准GPIO库调用
+	支持GPIO IRQ
+	支持动态识别内存容量
+	支持HPT时钟
+	支持常见的Linux新版内核特性
+  i.VoIP套件支持
+	支持FXO/FXS驱动
+	支持I2S HiFi codec
+  j.支持MT7688AN DDR/DDR2自动容量识别
+  k.支持系统恢复模式(uOS v1.1)
+  支持Reset按键进入Web恢复模式
+  支持DHCP分配IP
+  多线程任务支持
+  支持EEPROM/固件升级/备份
+  l.支持多种硬件配置
+
+6). wooya-openwrt-mt7688an.bin
+出厂固件，可以用来测试板上的所有硬件资源
+
+7). u-boot-mt7688-master.bin
+出厂U-Boot的bin文件
+
